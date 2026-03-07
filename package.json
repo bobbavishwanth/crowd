@@ -1,0 +1,11 @@
+{
+  "name": "crowdinfra",
+  "version": "1.0.0",
+  "description": "=# 🚀 CrowdInfra - Infrastructure Demand & Supply Platform",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
